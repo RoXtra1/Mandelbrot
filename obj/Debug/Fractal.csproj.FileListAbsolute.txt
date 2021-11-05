@@ -1,0 +1,10 @@
+C:\Users\User\Desktop\учебуэ\4 курс\програмирование\Множество Мондельброта\bin\Debug\Множество Мондельброта.exe.config
+C:\Users\User\Desktop\учебуэ\4 курс\програмирование\Множество Мондельброта\bin\Debug\Множество Мондельброта.exe
+C:\Users\User\Desktop\учебуэ\4 курс\програмирование\Множество Мондельброта\bin\Debug\Множество Мондельброта.pdb
+C:\Users\User\Desktop\учебуэ\4 курс\програмирование\Множество Мондельброта\obj\Debug\Fractal.csprojAssemblyReference.cache
+C:\Users\User\Desktop\учебуэ\4 курс\програмирование\Множество Мондельброта\obj\Debug\Fractal.MainForm.resources
+C:\Users\User\Desktop\учебуэ\4 курс\програмирование\Множество Мондельброта\obj\Debug\Множество_Мондельброта.Properties.Resources.resources
+C:\Users\User\Desktop\учебуэ\4 курс\програмирование\Множество Мондельброта\obj\Debug\Fractal.csproj.GenerateResource.cache
+C:\Users\User\Desktop\учебуэ\4 курс\програмирование\Множество Мондельброта\obj\Debug\Fractal.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\учебуэ\4 курс\програмирование\Множество Мондельброта\obj\Debug\Множество Мондельброта.exe
+C:\Users\User\Desktop\учебуэ\4 курс\програмирование\Множество Мондельброта\obj\Debug\Множество Мондельброта.pdb
